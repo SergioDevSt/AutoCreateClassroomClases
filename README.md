@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/SergioDevSt/AutoCreateClassroomClases">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/classroom.png" alt="Logo" width="200" height="175">
   </a>
 
 <h3 align="center">AutoClassroom</h3>
