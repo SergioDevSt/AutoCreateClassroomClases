@@ -31,15 +31,15 @@
 <br />
 <div align="center">
   <a href="https://github.com/SergioDevSt/AutoCreateClassroomClases">
-    <img src="images/classroom.png" alt="Logo" width="200" height="175">
+    <img src="images/classroom.png" alt="Logo" width="250" height="225">
   </a>
 
 <h3 align="center">AutoClassroom</h3>
 
   <p align="center">
-    This tool help you to create and upload students in a very easy intuitive way
+    This tool help you to create and upload students in a very easy intuitive way with google sheets
     <br />
-    <a href="https://github.com/SergioDevSt/AutoCreateClassroomClases"><strong>Create Classroom more easy than ever »</strong></a>
+    <a href="https://github.com/SergioDevSt/AutoCreateClassroomClases"><strong>Create Classrooms more easy than ever »</strong></a>
     <br />
     <br />
     <a href="https://github.com/SergioDevSt/AutoCreateClassroomClases">View Demo</a>
