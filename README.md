@@ -34,19 +34,19 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">AutoClassroom</h3>
 
   <p align="center">
-    project_description
+    This tool help you to create and upload students in a very easy intuitive way
     <br />
-    <a href="https://github.com/SergioDevSt/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/SergioDevSt/AutoCreateClassroomClases"><strong>Create Classroom more easy than ever »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SergioDevSt/repo_name">View Demo</a>
+    <a href="https://github.com/SergioDevSt/AutoCreateClassroomClases">View Demo</a>
     ·
-    <a href="https://github.com/SergioDevSt/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/SergioDevSt/AutoCreateClassroomClases/issues">Report Bug</a>
     ·
-    <a href="https://github.com/SergioDevSt/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/SergioDevSt/AutoCreateClassroomClases/issues">Request Feature</a>
   </p>
 </div>
 
@@ -81,7 +81,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## WORK IN PROGRESS
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -159,7 +159,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/SergioDevSt/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/SergioDevSt/AutoCreateClassroomClases/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,7 +197,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/SergioDevSt/repo_name](https://github.com/SergioDevSt/repo_name)
+Project Link: [https://github.com/SergioDevSt/AutoCreateClassroomClases](https://github.com/SergioDevSt/AutoCreateClassroomClases)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -216,16 +216,16 @@ Project Link: [https://github.com/SergioDevSt/repo_name](https://github.com/Serg
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/SergioDevSt/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/SergioDevSt/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SergioDevSt/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/SergioDevSt/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/SergioDevSt/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/SergioDevSt/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/SergioDevSt/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/SergioDevSt/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/SergioDevSt/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/SergioDevSt/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/SergioDevSt/AutoCreateClassroomClases.svg?style=for-the-badge
+[contributors-url]: https://github.com/SergioDevSt/AutoCreateClassroomClases/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SergioDevSt/AutoCreateClassroomClases.svg?style=for-the-badge
+[forks-url]: https://github.com/SergioDevSt/AutoCreateClassroomClases/network/members
+[stars-shield]: https://img.shields.io/github/stars/SergioDevSt/AutoCreateClassroomClases.svg?style=for-the-badge
+[stars-url]: https://github.com/SergioDevSt/AutoCreateClassroomClases/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SergioDevSt/AutoCreateClassroomClases.svg?style=for-the-badge
+[issues-url]: https://github.com/SergioDevSt/AutoCreateClassroomClases/issues
+[license-shield]: https://img.shields.io/github/license/SergioDevSt/AutoCreateClassroomClases.svg?style=for-the-badge
+[license-url]: https://github.com/SergioDevSt/AutoCreateClassroomClases/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
