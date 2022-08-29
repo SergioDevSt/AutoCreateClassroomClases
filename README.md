@@ -30,8 +30,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/SergioDevSt/AutoCreateClassroomClases">
-    <img src="images/classroom.png" alt="Logo" width="250" height="225">
+  <a href="https://github.com/SergioDevSt/ImagesForProjects">
+    <img src="ClassImag/classroom.png" alt="Logo" width="250" height="225">
   </a>
 
 <h3 align="center">AutoClassroom</h3>
