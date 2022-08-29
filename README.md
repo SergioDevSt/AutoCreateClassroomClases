@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/SergioDevSt/ImagesForProjects">
-    <img src="ClassImag/classroom.png" alt="Logo" width="250" height="225">
+    <img src="https://github.com/SergioDevSt/ImagesForProjects/blob/main/ClassImag/classroom.png" alt="Logo" width="250" height="225">
   </a>
 
 <h3 align="center">AutoClassroom</h3>
